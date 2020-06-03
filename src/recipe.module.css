@@ -17,10 +17,7 @@
     width: 100px;
     height: 100px;
 }
-.link
+.move
 {
-    text-decoration: none;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+    text-decoration: none !important;
 }
