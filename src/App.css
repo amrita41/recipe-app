@@ -13,15 +13,14 @@
 .search-bar
 {
   width: 50%;
-  border: none;
+  border: 5px solid violet;
   padding: 10px;
 }
 .search-button
 {
   background: lightblue;
-  border: none;
   padding: 10px 20px;
-  color: white;
+  border: 5px solid violet;
 }
 .recipes
 {
